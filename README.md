@@ -1,2 +1,3 @@
-### Hyunbin Yu
-* 대전중앙고등학교 3학년
+## 🧑 Hyunbin Yu @yuedward0103
+### 💻 Profile
+ * 2020 ~ : [@Teampickle](https://github.com/Teampickle) Team Manager, Develope
